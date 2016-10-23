@@ -1,5 +1,11 @@
 # composer
 
+example:
+
+```
+::composer{ 'composer': target_dir => '/usr/local/bin' }
+```
+
 #### Table of Contents
 
 1. [Overview](#overview)
